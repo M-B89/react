@@ -7,7 +7,7 @@
     "@fortawesome/free-solid-svg-icons": "5.12.1",
     "@fortawesome/react-fontawesome": "0.1.8",
     "@material-ui/core": "4.9.2",
-    "@types/react": "16.9.19",
+    "@types/react": "16.14.65",
     "prop-types": "^15.7.2",
     "react": "16.12.0",
     "react-dom": "16.12.0",
